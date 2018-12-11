@@ -1,6 +1,6 @@
 # AWS CloudFormation Templates
 
-1. vpc.yml
+## vpc.yml
 
 Here the first version of VPC Template has been uploaded. This is for creating the 2 Public and 2 Private Subnets and below are the list which this VPC Template consists of.
 
