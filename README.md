@@ -2,7 +2,7 @@
 
 ## vpc.yml
 
-Here the first version of VPC Template has been uploaded. This is for creating the 2 Public and 2 Private Subnets and below are the list which this VPC Template consists of.
+Here the first version of VPC Template. This is for creating the 2 Public and 2 Private Subnets and below are the list which this VPC Template consists of.
 
 * VPC with CIDR - 10.0.0.0/16
 * Public Subnet, Public CIDR Block (2)
